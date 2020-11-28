@@ -20,6 +20,8 @@ security:
     resource:
       jwt:
         key-value: test-secret
+        
+testkey: testVal01
 
 
 
