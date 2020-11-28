@@ -21,7 +21,7 @@ security:
       jwt:
         key-value: test-secret
         
-testkey: testVal01
+testkey: testVaal01asdff
 
 
 
